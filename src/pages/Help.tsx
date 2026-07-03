@@ -7,7 +7,7 @@ export default function Help() {
 
       <div className="mt-6 rounded-2xl bg-white p-6 shadow-sm">
         <p className="text-gray-600">
-          I'll not help you too lazy to help
+          Tell me how can i help
         </p>
       </div>
     </div>
